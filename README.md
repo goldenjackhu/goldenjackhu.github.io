@@ -1,5 +1,5 @@
 # goldenjackhu.github.io
 ## web!!!!!!
-It's a small static web built by Github Pages\n
-Thank you Github\n
+It's a small static web built by Github Pages
+Thank you Github
 And I will use it to learn JS,XML,Markdown or someelse
